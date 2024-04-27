@@ -1,0 +1,48 @@
+User persona
+Based on the result of market analysis, I created a coffee brand and separated two different groups of customers who have distinct needs and preference of coffee.
+1) Customers Emphasizing Quality of Life and Enjoyment
+Some customers drink coffee as a way of enjoying life like Sophia, who usually drinks coffee with her friends or family brewed by herself. Drinking coffee is actually a method of enjoying life and having a rest from work for her, so she usually feels positive emotions during the whole process of coffee making and drinking. However, she needs to spend long time in finding high-quality coffee beans that meets her preferences, and learning to use brew tools to make coffee correctly. This group of customers' overall goal is having tasty coffee to increase their happiness.
+
+Sophia's information
+Location:Living in a small city with beautiful scenery but not very prosperous, some distance from the big city, she has her own comfortable villa.
+Occupation: Holding a senior management position in a well-known company, she is one of the leaders in the company and is responsible for strategic planning and business development.
+Hobby:1. Tasting food: I like to taste food with family or friends on weekends, especially local snacks and exquisite restaurants.
+2. Art and Culture: I have a strong interest in art and culture and like to visit local art galleries, museums and watch concerts, plays and other artistic performances.
+3. Healthy life: Pay attention to a healthy lifestyle, perform regular fitness exercises, such as yoga, jogging or swimming, and pay attention to diet and nutrition.
+Attitude: She is a modern woman who loves life and is positive. She pays attention to the balance between work and life and pursues a high-quality life experience. She enjoys exploring and trying new things, and has a keen interest in food, art, nature and culture.
+
+2) Customers with Fast-paced Lifestyles Engaged in Work
+Some customers, with fast-paced lives and heavy work stress, have very little personal time, but need coffee to refresh mind at work, like Ben. He likes coffee but he drinks coffee more because he needs to gain more energy, so what he feels throughout the coffee drinking process may be negatively affected by the stress of work. In addition, he also needs to spend long time in finding tasty instant coffee which is easy to make anytime and anywhere. This group of customers’ overall goal is that the caffeine contained in the coffee that helps him to raise spirit and give them more energy to work. Therefore, what really affects his choice is the convenience of brewing coffee and the taste of coffee.
+
+Ben's information
+Location:Living in the suburbs of a prosperous city, he chose a place far away from the city center but with more affordable rent due to the need for commuting.
+Occupation: Working as a junior employee in a large company, the work is relatively busy, often requiring overtime work, and a long commute every day.
+Hobby: 1. Fitness: Although time is limited, he tries to arrange some time every week for simple fitness exercises, such as running or doing some simple strength training at home, to maintain physical health.
+2. Game entertainment: In his spare time, he likes to play some simple games and entertainment through his mobile phone or computer to relax his body and mind and get rid of the pressure caused by work.
+3. Movies and TV series: He likes to watch some movies or TV series during his breaks to enjoy relaxing time, but due to limited time, he usually can only choose some works with a faster pace and simpler content.
+Attitude: He is a proactive and optimistic young man. Although his life is fast-paced and his work is busy, he still strives to overcome various difficulties and maintain confidence and expectations for the future. He hopes to enjoy life to the fullest and find his own happiness and satisfaction in his limited leisure time.
+
+
+Service Design
+Overview of brand
+VerveCup is a new fashionable high-end coffee brand. Considering that existing coffee brands are already abundant and have occupied a certain market, and consumers drink coffee mainly for the purposes of enjoying life, socialising and refreshing, in order to stand out among various coffee brands, the main target group of this brand is positioned as a younger group of consumers who enjoy life but are busy at work, and who pursue fashion trends but keep desiring the high quality. Therefore, the brand mainly sells high-quality coffee beans with accessories, and instant coffee with a unique flavour to satisfy the distinct needs of a wider range of customers. 
+
+Promise
+Brand promise
+VerveCup hopes to open up a new scene of coffee life by creating products with superior quality and uniqueness, providing more choices for the infinite possibilities of a cup of coffee. At the same time, the brand also emphasizes its harmonious relationship with nature. It meticulously explores the distinct flavor profiles of coffee beans sourced from diverse regions, presenting the richness of our natural world, hoping to bring natural things to users. By striving to practice environmental protection concepts and insisting on using environmentally friendly recyclable materials for packaging, then feed the love back to nature.
+
+Service promise
+VerveCup mainly provides two types of products and services to two distinct types of customers. The first is the coffee grand slam containing high quality coffee beans and accompanying hand-brewing tools, which mainly serves coffee lovers who have a higher pursuit of coffee quality and flavour like Sophia. The second is instant coffee with unique flavour as same as coffee beans, which mainly serves busy young people who do not have enough time, but are in pursuit of a refined coffee life like Ben.
+
+Customer journey
+Previous experience: In previous coffee purchasing experiences, customers who prefer hand brewed coffee need to look up a lot of information about coffee making in advance, or customers who want to buy instant coffee need to spend time finding tasty coffee.
+Prepurchase stage: Customers can go to VerveCup website, where a digital brand ambassador (DBA) will greet the customer on the homepage, get a general understanding of the purchasing needs, and make recommendations for related products through some simple questions.
+Purchase stage: Based on the DBA's personalised recommendations, customers can simply choose and purchase the product directly from the website. After successful payment, the DBA will introduce more detailed coffee making and drinking tips to the customers. Customers will also receive green points after the payment.
+Postpurchase stage: Customers can scan the QR code on the package to get the detailed coffee drinking method and the recycling link, through which customers can choose to send the packaging back to the nearest branded recycling point and earn green points. Customers can redeem the points for products, brand merchandise, DBA merchandise or personalised DBA images.
+Future experience: In the future, customers will be loyal to the brand, and they will also be able to save up their coffee packaging and send it back online or recycle it offline when the brand launches an offline pop-up shop.
+
+
+Digital ambassador
+Considering customer’s needs and the difficulties they meet in previous experience mentioned above, VerveCup launched a digital brand ambassador, Chris, to help customers solve the problem of empathy and authority. Chris can take the initiative to introduce the brand concept to customers, recommend the most suitable type of coffee for customers, and at the same time, provide coffee brewing and drinking tips to reduce the time for customers to learn how to make coffee.
+In addition, Chris has a corresponding image of clothing according to the different flavours of coffee, and these images will also appear on the product packaging, so that customers can more intuitively feel the difference between the different flavours through a more concrete form, which will also make it easier for customers to understand Chris's advice. 
+Not only that, customers accumulate green points through consumption and packaging recycling, and then use these points to personalise their favourite Chris's digital virtual image, as if Chris is their friend or companion, to enhance Chris's sense of companionship to the customer, so that it has a stronger social function. Through Chris's guidance, customers are also transformed from ordinary coffee consumers to high-class coffee lovers, from passer-byes who don't know much about the brand to loyal fans of the brand, or even fans of Chris.
